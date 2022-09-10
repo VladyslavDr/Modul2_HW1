@@ -6,6 +6,8 @@ namespace Logger
     {
         public static void Main(string[] args)
         {
+            var res = new Starter();
+            res.Run();
         }
     }
 }
